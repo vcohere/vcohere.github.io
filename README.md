@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Dance Republic Case Study
 
-You can use the [editor on GitHub](https://github.com/vcohere/vcohere.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Dance Republic is a fictional nightclub, for which I created a fully custom WordPress website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Case Study will be split into 3 sections :
+
+1. Design
+2. Theme Creation
+3. Deployment
 
 ### Markdown
 
