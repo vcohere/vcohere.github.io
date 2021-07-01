@@ -12,7 +12,7 @@ This Case Study will be split into 3 sections :
 
 ## Design
 
-Today we will be using Adobe XD to create the first prototype, and Photoshop when necessary.
+The first step to designing a website is making wireframes. Wireframes are rough design prototypes, simply showing what shape and size each element will appear, as well as where on the page.
 
-68.1% of all website visits in 2020 were from a mobile phone. Because of this, I strongly believe in the mobile-first design philosophy. So, let's start with designing the mobile version first.
+Making wireframes makes it easy to avoid design flaws (which would be time-consuming to fix) before we start making the final design.
 
