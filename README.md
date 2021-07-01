@@ -2,6 +2,8 @@
 
 Dance Republic is a fictional nightclub, for which I created a fully custom WordPress website.
 
+You can download all the files (Prototypes, code, etc) on my [Github repository](#).
+
 This Case Study will be split into 3 sections :
 
 1. Design
