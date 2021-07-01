@@ -8,34 +8,9 @@ This Case Study will be split into 3 sections :
 2. Theme Creation
 3. Deployment
 
-### Markdown
+### Design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Today we will be using Adobe XD to create the first prototype, and Photoshop when necessary.
 
-```markdown
-Syntax highlighted code block
+68.1% of all website visits in 2020 were from a mobile phone. Because of this, I strongly believe in the mobile-first design philosophy. So, let's start with designing the mobile version first.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vcohere/vcohere.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
