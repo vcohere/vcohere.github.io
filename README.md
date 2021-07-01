@@ -42,6 +42,8 @@ And finally, I made a wireframe for computer users.
 
 As you can see, wireframes are a very rough, and not very appealing first prototype. Usually at this stage, these would be delivered to the client so we can start working on revisions. For example they might want the banner to be smaller, the menu to not be centered, or fully re-arrange the content.
 
+[Click here to download the Adobe XD file](Wireframes.xd)
+
 
 ### UI Design
 
