@@ -23,15 +23,21 @@ In 2020, 61.8% of all website visits were on a smartphone. Smartphones are the m
 
 So, I started by designing a wireframe for smartphone users. The goal of the website is to : Communicate with the customers about the events coming up, and take online table bookings.
 
-<img align="left" src="Wireframe-Mobile.gif">
+<p align="center">
+  <img src="Wireframe-Mobile.gif">
+</p>
 
 Next size up, I designed a wireframe for tablets. Most of the time, the design on tablets will be very close to what we get on computers.
 
-![]()
+<p align="center">
+  <img src="Wireframe-Tablet.gif">
+</p>
 
 And finally, I made a wireframe for computer users.
 
-![]()
+<p align="center">
+  <img src="Wireframe-Computer.gif">
+</p>
 
 
 As you can see, wireframes are a very rough, and not very appealing first prototype. Usually at this stage, these would be delivered to the client so we can start working on revisions. For example they might want the banner to be smaller, the menu to not be centered, or fully re-arrange the content.
