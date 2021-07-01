@@ -23,7 +23,7 @@ In 2020, 61.8% of all website visits were on a smartphone. Smartphones are the m
 
 So, I started by designing a wireframe for smartphone users. The goal of the website is to : Communicate with the customers about the events coming up, and take online table bookings.
 
-![Mobile Wireframe](Wireframe-Mobile.gif)
+<img align="left" src="Wireframe-Mobile.gif">
 
 Next size up, I designed a wireframe for tablets. Most of the time, the design on tablets will be very close to what we get on computers.
 
