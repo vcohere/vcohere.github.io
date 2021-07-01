@@ -16,3 +16,4 @@ The first step to designing a website is making wireframes. Wireframes are rough
 
 Making wireframes makes it easy to avoid design flaws (which would be time-consuming to fix) before we start making the final design.
 
+![Mobile Wireframe](Wireframe-Mobile.gif)
