@@ -12,6 +12,22 @@ You can find a case study I did for a fictional client [here](/), in this I go i
 
 You can also check out my [CodePen](https://codepen.io/vcohere/pens/showcase).
 
+## Technology
+
+Here is a list of tools I use on a regular basis. The list is in no particular order.
+
+- Node.js
+- Vue.js
+- PHP
+- WordPress
+- gulp
+- WebPack
+- git
+- SCSS
+- Creative Cloud (XD, Photoshop, Premiere, Illustrator)
+- Docker
+- and many more.
+
 ## Contact
 
 I am available to start now.
