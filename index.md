@@ -29,6 +29,7 @@ Here is a list of tools I use on a regular basis. The list is in no particular o
 - WebPack
 - git
 - SCSS
+- Bootstrap
 - Creative Cloud (XD, Photoshop, Premiere, Illustrator)
 - Docker
 - and many more.
