@@ -18,6 +18,7 @@ Here is a list of tools I use on a regular basis. The list is in no particular o
 
 - Node.js
 - Vue.js
+- MongoDB
 - PHP
 - WordPress
 - gulp
