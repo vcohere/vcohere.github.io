@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Experience
 
 I started working as a Web Development Consultant in [OnePoint](https://www.groupeonepoint.com/en/) in 2015. Over the next 2 years, I was developing websites and cross-platform apps for clients. Working in the Innovation "part" of the company, most of my projects were proof of concepts, under tight deadlines.
