@@ -1,4 +1,6 @@
-# Dance Republic Case Study
+---
+layout: default
+---
 
 You can download all the files from this case study on my [Github repository](https://github.com/vcohere/vcohere.github.io).
 

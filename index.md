@@ -10,7 +10,7 @@ And finally, from 2018 to 2019 I worked as a freelance web developer, using the 
 
 ## My work
 
-You can find a case study I did for a fictional client [here](/), in this I go in detail about my web designing process. From prototyping to building a custom WordPress theme with custom plugins.
+You can find a case study I did for a fictional client [here](/case-study), in this I go in detail about my web designing process. From prototyping to building a custom WordPress theme with custom plugins.
 
 You can also check out my [CodePen](https://codepen.io/vcohere/pens/showcase).
 
