@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Design](#design) [Development](#development) [Deployment](#deployment)
+
 You can download all the files from this case study on my [Github repository](https://github.com/vcohere/vcohere.github.io).
 
 1. Client's needs
